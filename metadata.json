@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Distress Signal ni kim",
+  "description": "An application that simulates a distress signal with flashing lights, a siren sound, and a vibration pattern on your device. Activate it to generate a high-visibility and audible alert in emergency situations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
